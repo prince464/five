@@ -1,0 +1,96 @@
+.banner-section{background: #2B36AB url('../images/onlineservices-ban.jpg');
+height: 100vh;
+background-size: cover;
+}
+
+.banner{text-align: center;}
+.banner h1{color: #e6e9f8e0;; font-size: 6em;}
+.banner p{ color: #03a9f4;font-size: 20px; }
+.btn-custom{background: lightblue;
+color: #2a425d;
+padding: 15px 30px;
+box-shadow: 0 0 10px #0e3850;}
+.btn-custom:hover{background: #0c0e56;
+color: white;}
+.btn-custom:focus{outline: 0;
+box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.25)}
+
+.vh-100{height: 100vh;}
+
+.about-section{
+	background: #0a1924;
+}
+.details{overflow: hidden;}
+.details h1{text-align: center;color: blue;}
+.details p{text-align: center;color: blue;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.about-section{background: #2B36AB url('../images/09e95af8a38e07a22556465a3f46543f.jpg');
+height: 100vh;
+background-size: cover;
+}
+.blog { overflow: hidden; }
+
+.blog .container {}
+
+.blog .container .blog-example {
+    text-align:  center;
+    padding-top: 20px;
+}
+
+.blog .container .blog-example h2 {
+    font-size:  30px;
+    color: blue;
+}
+
+.blog .container .blog-example p {
+    color: blue;
+}
+
+.blog .container .blog-photo {
+    width: 30%;
+    float: left;
+}
+
+.blog .container .blog-photo img {}
+
+.blog .container .blog-photo h3 {
+    color: black;
+}
+
+.blog .container .blog-photo h1 {
+    color: black;
+}
+
+.blog .container .blog-photo p {
+    color: blue;
+    padding-left: 105px;
+}
+
+.work{background:#f9fafc; overflow: hidden; padding-top: 10px;}
+.work p{text-align: center;}
+.work h1{text-align: center;}
+.ready{background:#282222; overflow: hidden;}
+
+.bars{overflow: hidden;}
+.bars h1{font-size: 4em; text-align: center;}
+
+.footer-section{background: #2B36AB url('../images/Milan_Italy_Tablet_1920x960.jpg');
+height: 40vh;
+background-size: cover;
+overflow: hidden;
+}
+
+.ler h1{color: blue; font-size: 20px;}
+
+.lef{ font-size: 30px; color: blue; justify-content: center; padding-bottom: 10px;
+}
+
+.join{background: #ac81819e;overflow: hidden;}
+.join p{color: white;text-align: center;color:  blue;}
+.join h1{color: white;text-align: center;color: blue;}
